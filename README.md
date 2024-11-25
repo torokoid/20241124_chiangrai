@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20241123_chiangrai/20241123_016.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20241124_chiangrai/20241124_012.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -125,13 +125,13 @@ p.note { display: none; }
 <!--上段にパンクズリストを入れる時の例-->
 
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/20241120_bangkok/" target="_blank">2024年11月20日、宇都宮からバンコクに移動</a>><a href="https://torokoid.github.io/20241121_bangkok/" target="_blank">11月21日バンコク市内をうろうろ</a>><a href="https://torokoid.github.io/20241122/" target="_blank">11月22日バンコク市内をうろついてからChaing Raiに移動</a>><a>11月23日チェンライのショッピンセンターでお買い物して、午後は親戚のお葬式</a></p></div>
+<p class="topicpath"><a href="https://torokoid.github.io/20241120_bangkok/" target="_blank">2024年11月20日、宇都宮からバンコクに移動</a>><a href="https://torokoid.github.io/20241121_bangkok/" target="_blank">11月21日バンコク市内をうろうろ</a>><a href="https://torokoid.github.io/20241122_chiangrai/" target="_blank">11月22日バンコク市内をうろついてからChaing Raiに移動</a>><a href="https://torokoid.github.io/20241123_chiangrai/" target="_blank">11月23日チェンライのショッピンセンターでお買い物して、午後は親戚のお葬式</a>><a>2024/11/24 、チェンライ3日目は, 朝市で朝ごはん調達</a></p></div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">地方都市のショッピングセンターでお買い物〜</span></h2>
+<h2><span class="yellow">朝市の活気は昔の日本と同じかも？</span></h2>
 <a href="20241124_001.JPG" target="_blank"><img src="20241124_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_002.JPG" target="_blank"><img src="20241124_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_003.JPG" target="_blank"><img src="20241124_003.JPG" alt="サンプル画像" width="900" /></a>
