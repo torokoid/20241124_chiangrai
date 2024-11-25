@@ -136,6 +136,8 @@ p.note { display: none; }
 <a href="20241124_002.JPG" target="_blank"><img src="20241124_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_003.JPG" target="_blank"><img src="20241124_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_004.JPG" target="_blank"><img src="20241124_004.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">朝市でも金は売ります！</span></h2>
 <a href="20241124_005.JPG" target="_blank"><img src="20241124_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_006.JPG" target="_blank"><img src="20241124_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_007.JPG" target="_blank"><img src="20241124_007.JPG" alt="サンプル画像" width="900" /></a>
@@ -146,23 +148,39 @@ p.note { display: none; }
 <a href="20241124_012.JPG" target="_blank"><img src="20241124_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_013.JPG" target="_blank"><img src="20241124_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_014.JPG" target="_blank"><img src="20241124_014.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">朝ごはんは調達できたので、最寄りのお寺を訪問して見学</span></h2>
 <a href="20241124_015.JPG" target="_blank"><img src="20241124_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_016.JPG" target="_blank"><img src="20241124_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_017.JPG" target="_blank"><img src="20241124_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_018.JPG" target="_blank"><img src="20241124_018.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">午後はお葬式の最終イベント</span></h2>
 <a href="20241124_019.JPG" target="_blank"><img src="20241124_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_020.JPG" target="_blank"><img src="20241124_020.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お坊さん8人でお祈りを捧げます</span></h2>
 <a href="20241124_021.JPG" target="_blank"><img src="20241124_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_022.JPG" target="_blank"><img src="20241124_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_023.JPG" target="_blank"><img src="20241124_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_024.JPG" target="_blank"><img src="20241124_024.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">故人の長女</span></h2>
 <a href="20241124_025.JPG" target="_blank"><img src="20241124_025.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">長女の夫はドイツから駆けつけたドイツ人</span></h2>
 <a href="20241124_026.JPG" target="_blank"><img src="20241124_026.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">人が集まる場に必ずいる、宝くじ売りのお姉さま</span></h2>
 <a href="20241124_027.JPG" target="_blank"><img src="20241124_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_028.JPG" target="_blank"><img src="20241124_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_029.JPG" target="_blank"><img src="20241124_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_030.JPG" target="_blank"><img src="20241124_030.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">棺を集落の火葬場まで運びます</span></h2>
 <a href="20241124_031.JPG" target="_blank"><img src="20241124_031.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お坊さんたちを先頭に、みんなでロープを引きます</span></h2>
 <a href="20241124_032.JPG" target="_blank"><img src="20241124_032.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_033.JPG" target="_blank"><img src="20241124_033.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_034.JPG" target="_blank"><img src="20241124_034.JPG" alt="サンプル画像" width="900" /></a>
@@ -175,22 +193,42 @@ p.note { display: none; }
 <a href="20241124_041.JPG" target="_blank"><img src="20241124_041.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_042.JPG" target="_blank"><img src="20241124_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_043.JPG" target="_blank"><img src="20241124_043.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">集落の火葬場に到着</span></h2>
 <a href="20241124_044.JPG" target="_blank"><img src="20241124_044.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_045.JPG" target="_blank"><img src="20241124_045.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_046.JPG" target="_blank"><img src="20241124_046.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">マイク握る司会は市役所の職員、黒いネクタイが故人の長男で喪主</span></h2>
 <a href="20241124_047.JPG" target="_blank"><img src="20241124_047.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_048.JPG" target="_blank"><img src="20241124_048.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_049.JPG" target="_blank"><img src="20241124_049.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">故人にお供えするお花のオブジェ、出席者全員に配布されました</span></h2>
 <a href="20241124_050.JPG" target="_blank"><img src="20241124_050.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">火葬の着火を演出する空飛ぶ神様！</span></h2>
 <a href="20241124_051.JPG" target="_blank"><img src="20241124_051.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_052.JPG" target="_blank"><img src="20241124_052.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">神様が炉のところまで降りてきて着火の合図を花火仕かけで演出！</span></h2>
 <a href="20241124_053.JPG" target="_blank"><img src="20241124_053.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">打ち上げ花火もバンバン上がって大騒ぎでした！</span></h2>
 <a href="20241124_054.JPG" target="_blank"><img src="20241124_054.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">出席者全員に爪切りが配られてイベント終了。<br>次回は日本の49日に相当する100日とのことでした。</span></h2>
 <a href="20241124_055.JPG" target="_blank"><img src="20241124_055.JPG" alt="サンプル画像" width="900" /></a>
+
+<br><br><br>
+
+<h2><span class="yellow">ひと段落したので昨日行ったLotusに行きました。<br>駐車場の一角にテントが張られて屋台が並んでます。</span></h2>
 <a href="20241124_056.JPG" target="_blank"><img src="20241124_056.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_057.JPG" target="_blank"><img src="20241124_057.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_058.JPG" target="_blank"><img src="20241124_058.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_059.JPG" target="_blank"><img src="20241124_059.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">屋台でお菓子を買った後、Lotusのレジを再チェック<br>レジのベルトコンベアシステムはよく見ると前のお客との間に仕切り入れてます</span></h2>
 <a href="20241124_060.JPG" target="_blank"><img src="20241124_060.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
