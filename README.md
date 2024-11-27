@@ -222,6 +222,15 @@ p.note { display: none; }
 
 <br><br><br>
 
+<h2><span class="yellow">VDO_Link、(空飛ぶ神様に夜着火、その後の打ち上げ花火などの動画)</span></h2>
+<h2><span class="yellow"><a href="https://youtube.com/shorts/yfyo0iFSSEc" target="_blank">VDO1</a></span></h2>
+<h2><span class="yellow"><a href="https://youtube.com/shorts/9YzIb1_RsqA" target="_blank">VDO2</a></span></h2>
+<h2><span class="yellow"><a href="https://youtube.com/shorts/UOln8pCy26k" target="_blank">VDO3</a></span></h2>
+<h2><span class="yellow"><a href="https://youtube.com/shorts/SntxaCsWbzw" target="_blank">VDO4</a></span></h2>
+
+
+<br><br><br>
+
 <h2><span class="yellow">ひと段落したので昨日行ったLotusに行きました。<br>駐車場の一角にテントが張られて屋台が並んでます。</span></h2>
 <a href="20241124_056.JPG" target="_blank"><img src="20241124_056.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241124_057.JPG" target="_blank"><img src="20241124_057.JPG" alt="サンプル画像" width="900" /></a>
