@@ -222,7 +222,7 @@ p.note { display: none; }
 
 <br><br><br>
 
-<h2><span class="yellow">VDO_Link、(空飛ぶ神様に夜着火、その後の打ち上げ花火などの動画)</span></h2>
+<h2><span class="yellow">VDO_Link<br>(火葬場への搬送、空飛ぶ神様による着火、その後の打ち上げ花火などの動画)</span></h2>
 <h2><span class="yellow"><a href="https://youtube.com/shorts/yfyo0iFSSEc" target="_blank">VDO1</a></span></h2>
 <h2><span class="yellow"><a href="https://youtube.com/shorts/9YzIb1_RsqA" target="_blank">VDO2</a></span></h2>
 <h2><span class="yellow"><a href="https://youtube.com/shorts/UOln8pCy26k" target="_blank">VDO3</a></span></h2>
